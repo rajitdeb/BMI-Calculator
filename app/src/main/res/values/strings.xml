@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="any_dsc">any dsc</string>
+    <string name="bmi_measurement">BMI Measurement</string>
+    <string name="human_figure">human figure</string>
+    <string name="body_weight">Body Weight</string>
+    <string name="weight_seekbar_label">0 Kg</string>
+    <string name="height">Height</string>
+    <string name="height_seekbar_level">3.0 ft</string>
+    <string name="calculate">Calculate</string>
+    <string name="results">Results</string>
+    <string name="obese_ii">Obese II</string>
+    <string name="_35_0_45_39_9">35.0 - 39.9</string>
+    <string name="_40_62_61"><![CDATA[40 > =]]></string>
+    <string name="severely_overweight">Severely Overweight</string>
+    <string name="reset">Reset</string>
+    <string name="obese_i">Obese I</string>
+    <string name="_30_0_45_34_9">30.0 - 34.9</string>
+    <string name="overweight">Overweight</string>
+    <string name="_25_0_45_29_9">25.0 - 29.9</string>
+    <string name="healthy">Healthy</string>
+    <string name="_18_5_45_24_9">18.5 - 24.9</string>
+    <string name="underweight">Underweight</string>
+    <string name="_15_1_45_18_4">15.1 - 18.4</string>
+    <string name="severely_underweight">Severely Underweight</string>
+    <string name="_15_0_60_61"><![CDATA[15.0 < =]]></string>
+    <string name="bmi">BMI</string>
+    <string name="are_you_sure_you_want_to_exit_63">Are you sure you want to exit ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
